@@ -1,2 +1,5 @@
 # lisp
-A small lisp evaluator written in C.
+
+A fast and efficient lisp interpreter written in C.
+
+
