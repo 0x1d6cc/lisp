@@ -17,4 +17,6 @@ clean:
 	find . -name "*~" -exec rm {} \;
 	find . -name "*.o" -exec rm {} \;
 
-.PHONY: clean 
+tests:
+
+.PHONY: clean tests
